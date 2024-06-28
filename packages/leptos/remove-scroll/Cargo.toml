@@ -1,0 +1,12 @@
+[package]
+name = "leptos-remove-scroll"
+description = "Leptos port of react-remove-scroll."
+
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+version.workspace = true
+
+[dependencies]
+leptos.workspace = true
