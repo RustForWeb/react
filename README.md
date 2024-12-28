@@ -8,10 +8,6 @@ Rust React is available for these Rust frameworks:
 
 -   [Leptos](./packages/leptos)
 
-## Examples
-
-TODO
-
 ## Documentation
 
 TODO
@@ -19,3 +15,9 @@ TODO
 ## License
 
 This project is available under the [MIT license](LICENSE.md).
+
+## Rust For Web
+
+The Rust React project is part of [Rust For Web](https://github.com/RustForWeb).
+
+[Rust For Web](https://github.com/RustForWeb) creates and ports web UI libraries for Rust. All projects are free and open source.
