@@ -10,4 +10,4 @@ repository = "https://github.com/RustForWeb/react"
 version = "0.0.1"
 
 [workspace.dependencies]
-leptos = { version = "0.7.0" }
+leptos = { version = "0.8.0" }
