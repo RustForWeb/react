@@ -1,7 +1,7 @@
 {
     "name": "@rustforweb/react",
     "description": "Rust port of various React libraries.",
-    "author": "Rust For Web <info@rustforweb.org>",
+    "author": "Rust for Web <info@rustforweb.org>",
     "repository": "github:RustForWeb/react",
     "license": "MIT",
     "private": true,

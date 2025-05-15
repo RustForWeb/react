@@ -4,8 +4,8 @@ Leptos Remove Scroll is a Rust port of [React Remove Scroll](https://www.npmjs.c
 
 Removes and disables scroll.
 
-## Rust For Web
+## Rust for Web
 
-The Leptos Remove Scroll project is part of [Rust For Web](https://github.com/RustForWeb).
+The Leptos Remove Scroll project is part of [Rust for Web](https://github.com/RustForWeb).
 
-[Rust For Web](https://github.com/RustForWeb) creates and ports web UI libraries for Rust. All projects are free and open source.
+[Rust for Web](https://github.com/RustForWeb) creates and ports web UI libraries for Rust. All projects are free and open source.
